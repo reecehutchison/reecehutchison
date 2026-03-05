@@ -2,3 +2,10 @@
 
 # 🔭 About Me:
 I'm a 3rd year Computer Science student at Northwestern Polytechnic.
+
+# 📡 Tech Stack:
+Languages: Javascript / Typescript, Python, Java, C / C++, SQL, HTML / CSS, Haskell. 
+
+Dev Tools: Git, Claude Code.
+
+Libraries/Frameworks: Node.js, React, Postgres, Spring Boot.
