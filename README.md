@@ -4,7 +4,7 @@
 I'm a 4th year Computer Science student at Northwestern Polytechnic.
 
 # 📡 Tech Stack:
-Languages: Javascript / Typescript, Python, Java, C / C++, SQL, HTML / CSS, Haskell. 
+Languages: Python, Javascript / Typescript, Java, C / C++, SQL, HTML / CSS, Haskell. 
 
 Dev Tools: Git, Claude Code.
 
